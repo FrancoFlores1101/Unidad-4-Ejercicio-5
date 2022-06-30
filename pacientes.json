@@ -1,0 +1,15 @@
+{
+    "__class__": "ManejadorPacientes",
+    "pacientes": [
+        {
+            "__class__": "Paciente",
+            "__atributos__": {
+                "apellido": "Flores",
+                "nombre": "Franco",
+                "telefono": "(264)5631658",
+                "altura": 167,
+                "peso": 55
+            }
+        }
+    ]
+}
